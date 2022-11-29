@@ -1,0 +1,13 @@
+cudatoolkit-11.3.1
+conda install -c anaconda cudatoolkit
+conda install -c anaconda cudnn
+cudnn-8.2.1
+C:\Users\dany\.conda\pkgs\cudatoolkit-11.3.1-h59b6b97_2\Library\bin\
+
+
+**************************************************************************
+conda install -c anaconda cudatoolkit
+conda install -c anaconda cudnn
+pip install torch==1.9.0+cu111 torchvision==0.10.0+cu111 torchaudio==0.9.0 -f https://download.pytorch.org/whl/torch_stable.html
+
+**********************************************************************
